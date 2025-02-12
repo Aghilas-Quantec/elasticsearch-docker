@@ -1,0 +1,8 @@
+[
+  {
+    "name": "es-docker-cluster",
+    "uri": "https://localhost:9200",
+    "username": "********",
+    "password": "********"
+  }
+]
