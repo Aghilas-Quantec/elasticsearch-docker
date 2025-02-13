@@ -4,5 +4,9 @@
     "uri": "https://localhost:9200",
     "username": "********",
     "password": "********"
+  },
+  {
+    "name": "dev",
+    "uri": "http://localhost:9200"
   }
 ]
